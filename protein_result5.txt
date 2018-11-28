@@ -1,0 +1,40 @@
+
+1. LIM/homeobox protein Lhx2 isoform b [Mus musculus]
+365 aa protein
+NP_001277575.1 GI:594591556
+
+2. LIM/homeobox protein Lhx2 isoform a [Mus musculus]
+406 aa protein
+NP_034840.1 GI:6754538
+
+3. PREDICTED: LIM/homeobox protein Lhx2 isoform X3 [Mus musculus]
+365 aa protein
+XP_006497802.1 GI:568913060
+
+4. PREDICTED: LIM/homeobox protein Lhx2 isoform X3 [Mus musculus]
+365 aa protein
+XP_006497801.1 GI:568913058
+
+5. PREDICTED: LIM/homeobox protein Lhx2 isoform X2 [Mus musculus]
+373 aa protein
+XP_006497799.1 GI:568913054
+
+6. PREDICTED: LIM/homeobox protein Lhx2 isoform X2 [Mus musculus]
+373 aa protein
+XP_006497798.1 GI:568913052
+
+7. PREDICTED: LIM/homeobox protein Lhx2 isoform X2 [Mus musculus]
+373 aa protein
+XP_006497797.1 GI:568913050
+
+8. PREDICTED: LIM/homeobox protein Lhx2 isoform X1 [Mus musculus]
+414 aa protein
+XP_006497796.1 GI:568913048
+
+9. LIM homeobox protein 2 [Mus musculus]
+406 aa protein
+AAH55741.1 GI:33416474
+
+10. RecName: Full=LIM/homeobox protein Lhx2; Short=Homeobox protein LH-2; Short=LIM homeobox protein 2
+406 aa protein
+Q9Z0S2.1 GI:8134552

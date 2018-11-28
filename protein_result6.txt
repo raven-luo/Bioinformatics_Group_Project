@@ -1,0 +1,40 @@
+
+1. RecName: Full=Synaptoporin
+265 aa protein
+Q8BGN8.1 GI:48474843
+
+2. synaptoporin isoform 2 precursor [Mus musculus]
+265 aa protein
+NP_001156504.1 GI:253314534
+
+3. synaptoporin isoform 1 [Mus musculus]
+285 aa protein
+NP_082328.3 GI:253314532
+
+4. synaptoporin, isoform CRA_b [Mus musculus]
+265 aa protein
+EDL20614.1 GI:148688667
+
+5. synaptoporin, isoform CRA_a [Mus musculus]
+285 aa protein
+EDL20613.1 GI:148688666
+
+6. Synaptoporin [Mus musculus]
+285 aa protein
+AAH26512.1 GI:20071498
+
+1. synaptoporin precursor [Rattus norvegicus]
+265 aa protein
+NP_076464.1 GI:13027428
+
+2. PREDICTED: synaptoporin isoform X1 [Rattus norvegicus]
+285 aa protein
+XP_017455286.1 GI:1046861764
+
+3. synaptoporin, isoform CRA_c [Rattus norvegicus]
+285 aa protein
+EDL94131.1 GI:149040047
+
+4. synaptoporin, isoform CRA_b [Rattus norvegicus]
+265 aa protein
+EDL94130.1 GI:149040046
