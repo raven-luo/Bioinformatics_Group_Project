@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta3.txt  -                  0 1318.8   2.9         0 1318.7   2.9   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      sequence.fasta3.txt.hmm
+# Target file:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta
+# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout sequence.fasta3.txt.hmm.txt sequence.fasta3.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta 
+# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project
+# Date:            Fri Nov 30 12:25:53 2018
+# [ok]

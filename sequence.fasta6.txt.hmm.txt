@@ -1,0 +1,106 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta6.txt  -           1.3e-202  665.8   5.3  1.4e-202  665.6   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      sequence.fasta6.txt.hmm
+# Target file:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta
+# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout sequence.fasta6.txt.hmm.txt sequence.fasta6.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta 
+# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project
+# Date:            Fri Nov 30 12:25:56 2018
+# [ok]
