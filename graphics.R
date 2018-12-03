@@ -14,8 +14,10 @@ for (i in 1:length(HitTable$V1)) {
     Sequence[(i+1)/3]=HitTable[i,]
   }
 }
-Graphic=data.frame((cbind(Protein,Sequence,HitNum))) #default is to make it a character vector. Must convert to data frame
+HitNum=as.numeric(HitNum)
+Graphic=cbind.data.frame(Protein,Sequence,HitNum) #default is to make it a character vector. Must convert to data frame
 library(ggplot2)
 library(grid)
 library(gridExtra)
-Plot=ggplot(Graphic,aes(x=Graphic$Protein,y=Graphic$HitNum))+theme_classic()+geom_bar(aes(x=Graphic$Protein,y=Graphic$HitNum))
+Plot=ggplot(data=Graphic,aes(x=Graphic$Sequence,y=Graphic$HitNum,fill=Graphic$Protein))+geom_bar(stat="identity",position=position_dodge())+theme_classic()+xlab("Sequence")+ylab("Hit Number")+scale_fill_discrete(name="Protein")
+Plot
