@@ -1,0 +1,21 @@
+Protein alignments:
+
+5 of our 6 protein motifs are the same. However, we see that you chose many species to work with, and not necessarily all of them are closely related to mice (as you can see from the TREE function on NCBI. This is just something to keep in mind
+
+Good use of unix variables in file=$(echo $1)!
+
+Protein search:
+
+It seems unnecessary to use $(ls ../../../*.hmm), when just writing "ls../../../*.hmm" will give you that list. At this point in the for loop, you are not calling a variable yet. This applies to other steps in your work as well.
+
+Nice use of script to get top hits! We just copied from the webpage table directly.
+
+Graphics:
+
+We couldn't find your .R file! Could you put it in?
+
+It may also be helpful to include an actual picture of the graph exported into the file, like a .png file
+
+Overall:
+
+Nice breakdown and commenting of code! We really need to do the same!
