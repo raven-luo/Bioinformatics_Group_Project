@@ -4,4 +4,4 @@ We chose the first 2 transcripts.
 
 blastn returns the most hits. megablast returns the second most hits. discontinuous megablast returns the fewest hits. We verified this using wc -l.
 
-Some of the discontinuous megablast hits can be found in blastn hits, but blastn hits have more additional hits. There are no overlaps between megablast and discontinuous megablast, or between megablast and blastn. We confirmed this using for loops in Short_Answer_1.R
+For the first transcript, some of the discontinuous megablast hits align with blastn hits, but blastn hits have more additional hits. There are no alignments between megablast and discontinuous megablast, or between megablast and blastn. There were no alignments in the second transcript. We confirmed this using for loops in Short_Answer_1.R
