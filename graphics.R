@@ -19,5 +19,5 @@ Graphic=cbind.data.frame(Protein,Sequence,HitNum) #default is to make it a chara
 library(ggplot2)
 library(grid)
 library(gridExtra)
-Plot=ggplot(data=Graphic,aes(x=Graphic$Sequence,y=Graphic$HitNum,fill=Graphic$Protein))+geom_bar(stat="identity",position=position_dodge())+theme_classic()+xlab("Sequence")+ylab("Hit Number")+scale_fill_discrete(name="Protein")
+Plot=ggplot(data=Graphic,aes(x=Graphic$Sequence,y=Graphic$HitNum,fill=Graphic$Protein))+geom_bar(stat="identity",position=position_dodge())+theme_classic()+xlab("Sequence")+ylab("Hit Number")+scale_fill_discrete(name="Protein")+ggtitle("Effect of obesity on protein expression")
 Plot
