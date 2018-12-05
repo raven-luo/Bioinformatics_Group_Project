@@ -1,9 +1,9 @@
 We chose gsta2 and Ptpn5, and built HMM protein models using primate sequences.
 
-We searched the Obese 1 sequence.
+We searched the Obese 2 sequence.
 
-The quality of hits were much lower.
+The quality of hits was lower compared to when the HMM protein model was built using mice sequences.
 
-There were much fewer hits. 
+We expected there to be much fewer hits, but the hit number turned out to be the same. 
 
-Compare e-values
+We compared e-values in gsta2 and ptpn5_primates.txt.hmm.txt. e-values were higher when the gsta2 HMM protein model was built using primate sequences instead of mouse and rat sequences. It increased from e-131 to e-119. e-values were 0 for Ptpn5 regardless of the species from which the HMM protein model was built.

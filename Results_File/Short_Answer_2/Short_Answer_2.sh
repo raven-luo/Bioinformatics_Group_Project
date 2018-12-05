@@ -5,7 +5,7 @@ do
 done
 
 
-for fasta in /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese1protein.fasta
+for fasta in /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta
 do
         for hmm in gsta2_primates.txt.hmm  ptpn5_primates.txt.hmm
         do

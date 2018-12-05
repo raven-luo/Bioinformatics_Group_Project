@@ -1,14 +1,14 @@
 #                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
 # target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
 #------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-Obese2               -          gsta2_primates.txt   -           8.6e-119  389.8   0.2  9.6e-119  389.6   0.2   1.0   1   0   0   1   1   1   1 -
+Obese2               -          sequence.fasta1.txt  -           1.9e-131  431.4   0.3  2.1e-131  431.2   0.3   1.0   1   0   0   1   1   1   1 -
 #
 # Program:         hmmsearch
 # Version:         3.2.1 (June 2018)
 # Pipeline mode:   SEARCH
-# Query file:      gsta2_primates.txt.hmm
+# Query file:      sequence.fasta1.txt.hmm
 # Target file:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta
-# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout gsta2_primates.txt.hmm.txt gsta2_primates.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta 
-# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/Short_Answer_2
-# Date:            Wed Dec  5 13:36:22 2018
+# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout sequence.fasta1.txt.hmm.txt sequence.fasta1.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta 
+# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project
+# Date:            Fri Nov 30 12:25:51 2018
 # [ok]

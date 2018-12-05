@@ -1,33 +1,31 @@
 #                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
 # target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
 #------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
-Obese1               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
+Obese2               -          ptpn5_primates.txt   -                  0 1191.6   3.0         0 1191.4   3.0   1.0   1   0   0   1   1   1   1 -
 #
 # Program:         hmmsearch
 # Version:         3.2.1 (June 2018)
 # Pipeline mode:   SEARCH
 # Query file:      ptpn5_primates.txt.hmm
-# Target file:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese1protein.fasta
-# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout ptpn5_primates.txt.hmm.txt ptpn5_primates.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese1protein.fasta 
-# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project
-# Date:            Wed Dec  5 13:11:04 2018
+# Target file:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta
+# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout ptpn5_primates.txt.hmm.txt ptpn5_primates.txt.hmm /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/Obese2protein.fasta 
+# Current dir:     /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/Short_Answer_2
+# Date:            Wed Dec  5 13:36:23 2018
 # [ok]
