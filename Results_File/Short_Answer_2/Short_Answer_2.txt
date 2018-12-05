@@ -1,0 +1,9 @@
+We chose gsta2 and Ptpn5, and built HMM protein models using primate sequences.
+
+We searched the Obese 1 sequence.
+
+The quality of hits were much lower.
+
+There were much fewer hits. 
+
+Compare e-values
