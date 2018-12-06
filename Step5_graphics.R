@@ -1,7 +1,10 @@
 setwd("C:/Users/raven/Desktop/biocomputing/GroupProject/Bioinformatics_Group_Project")
 HitTable=read.table(file="HMMsearchHitTableFinal.txt",header = FALSE,stringsAsFactors = FALSE)
-
-# make hitnumbers, proteins and sequences into three separate variables from HitTable
+# because our finalized HitTable runs in this format
+# Protein name: e.g. Control2Protein
+# Sequence/transcript/motif name: e.g. gsta2
+# Hit Number: e.g. 20
+# we need to make hitnumbers, proteins and sequences into three separate variables (vectors) from HitTable, using the remainder when the row number is divided by 3.
 Protein=numeric(length=length(HitTable$V1)/3)
 Sequence=numeric(length=length(HitTable$V1)/3)
 HitNum=numeric(length=length(HitTable$V1)/3)
