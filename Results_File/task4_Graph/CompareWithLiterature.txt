@@ -1,0 +1,14 @@
+Our results are consistent with those described in Kuhns & Pluznick 2017. We searched for novel genes in the given sequence that were proposed in the paper to be differentially expressed early in disease progression in the kidney tissue.
+
+Among the genes identified in the paper to be significantly upregulated in the kidneys of high fat fed animals by RNA Seq and qRT-PCR, we studied Synpr, ATP12a, Lhx2, and Ptpn5.
+Our results are the same: these 4 genes are upregulated in obese mice, by comparing hit numbers in control and obese mice protein sequences.
+Considering the functions and products of these genes as described in the paper, these results are reasonable. Their exploration in the context of diabetes with links to obesity was well justified.
+
+Among the genes identified to be downregulated in obese mice, we studied Gsta2.
+Our results are the same: Gsta2 is downregulated in obese mice compared with control mice.
+
+We also studied a gene unmentioned in the paper: Asc-2.
+It was found to be upregulated in obese mice.
+The protein expressed from the Asc-2 gene is a nuclear factor that regulates inflammatory signaling and is found to be a cancer-amplified transcriptional coactivator essential for ligand-dependent transactivation by nuclear receptors in vivo. Thus, it is reasonable that it would be upregulated in obese mice, which may be more likely to require more inflammation regulation and transactivation.
+
+These results have implications on disease onset and the impact of a high fat diet.

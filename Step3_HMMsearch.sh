@@ -1,3 +1,4 @@
+# Usage: bash Step2_HMMsearch.sh
 for fasta in /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/*.fasta
 do 
 	for hmm in sequence.fasta*.txt.hmm
