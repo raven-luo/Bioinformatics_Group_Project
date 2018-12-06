@@ -1,4 +1,10 @@
-# Usage: bash Step2_HMMsearch.sh
+# Step3_HMMsearch.sh
+# usage: bash Step3_HMMsearch.sh
+# search 4 translated "RNAseq files" for each of the 6 HMM protein models using hmmsearch
+# get the number of hits for each pair of "RNAseq files" and "HMM protein models"
+# write the results into HMMsearchHitTable.txt
+
+
 for fasta in /afs/nd.edu/user32/yluo3/Bioinformatics_Group_Project/RNAseq/*.fasta
 do 
 	for hmm in sequence.fasta*.txt.hmm
